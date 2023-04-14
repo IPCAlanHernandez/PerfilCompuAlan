@@ -1,0 +1,9 @@
+.perfil {
+    background-color: aqua;
+}
+
+.video {
+    width: 900px;
+    position: absolute;
+    left: 15%;
+}

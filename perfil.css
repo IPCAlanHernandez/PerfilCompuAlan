@@ -1,0 +1,134 @@
+.regreso {
+    width: 50px;
+    height: 30px;
+}
+
+body {
+    background-color: lightslategray;
+}
+
+.portada {
+    position: absolute;
+    top: 5%;
+    left: 15%;
+    width: 900px;
+    height: 350px;
+    border-style: solid;
+    border-color: dimgray;
+}
+
+.foto {
+    border-radius: 70%;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    border-style: solid;
+    border-color: dimgray;
+
+}
+.nombre {
+    color: aliceblue;
+    position: absolute;
+    top: 75%;
+    left: 40%;
+}
+
+.linea-1 {
+    position: absolute;
+    top: 90%;
+    left: 17%;
+    width: 70%;
+
+}
+
+.detalle-1 {
+    background-color: aqua;
+    height: 60%;
+    width: 20%;
+    position: absolute;
+    top: 100%;
+    left: 19%;
+
+}
+
+.detalles {
+    position: absolute;
+    top: 1%;
+    left: 40%;
+
+}
+
+.linea-2 {
+    position: absolute;
+    top: 244%;
+    width: 135%;
+    transform: rotate(90deg);
+    left: -27%;
+
+
+}
+
+.linea-3 {
+    position: absolute;
+    top: 100%;
+    width: 47%;
+    left: 40%;
+
+
+}
+
+.Publicaciones {
+    color: aliceblue;
+    position: absolute;
+    top: 100%;
+    left: 60%;
+}
+
+.Amigos {
+    color: black;
+    position: absolute;
+    top: 91%;
+    left: 60%;
+}
+
+.meme-1 {
+    position: absolute;
+    top: 115%;
+    left: 45%;
+    width: 500px;
+    height: 350px;
+    border-style: solid;
+    border-color: dimgray;
+}
+
+.meme-2 {
+    position: absolute;
+    top: 190%;
+    left: 45%;
+    width: 500px;
+    height: 350px;
+    border-style: solid;
+    border-color: dimgray;
+}
+
+.meme-3 {
+    position: absolute;
+    top: 265%;
+    left: 45%;
+    width: 500px;
+    height: 350px;
+    border-style: solid;
+    border-color: dimgray;
+}
+
+.meme-4 {
+    position: absolute;
+    top: 340%;
+    left: 45%;
+    width: 500px;
+    height: 350px;
+    border-style: solid;
+    border-color: dimgray;
+}
